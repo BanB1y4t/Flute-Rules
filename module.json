@@ -1,0 +1,8 @@
+{
+    "name": "RULES",
+    "version": "1.0.0",
+    "description": "rules.description",
+    "authors": ["Flames"],
+    "providers": ["Flute\\Modules\\Rules\\src\\ServiceProviders\\RulesServiceProvider"],
+    "dependencies": {}
+}
